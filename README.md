@@ -1,2 +1,15 @@
-# starcoin-move-example
-starcoin-move合约实例（Dapp交互）
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
