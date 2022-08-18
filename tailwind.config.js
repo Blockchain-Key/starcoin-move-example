@@ -3,10 +3,11 @@ module.exports = {
   purge: ['./src/**/*.{ts,tsx,js,jsx}'],
   darkMode: false,
   theme: {
-    colors: {
-      'starcoin-header': '#000F3A',
+    extend: {
+      colors: {
+        'starcoin-header': '#000F3A',
+      },
     },
-    extend: {},
     minWidth: {
       '1/2': '50%',
       '3/4': '75%',
